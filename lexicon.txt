@@ -1,0 +1,9 @@
+# ==============================================================
+# Mini Lexicon cho 5 lệnh tiếng Việt (CSE457 - Lab 3)
+# Định dạng: WORD PHONE_1 PHONE_2 ... PHONE_K
+# ==============================================================
+mo      m o_hoi
+dong    d o_sac ng
+len     l e_ngang n
+xuong   s uo_sac ng
+dung    d u_huyen ng
